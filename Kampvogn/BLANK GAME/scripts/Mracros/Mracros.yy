@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Mracros",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Mracros",
+  "parent":{
+    "name":"Tank",
+    "path":"folders/Objects/Tank.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
