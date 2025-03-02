@@ -1,3 +1,13 @@
+
+
+if (mouse_check_button_pressed(mb_right)) {
+    var menu_instance = instance_create_layer(mouse_x, mouse_y, "Instances", Obj_Ordrer_Menu);
+    menu_instance.visible = true;
+}
+
+
+
+
 if path_get_number(path_Move) > 0 {
     // Hent første punkt (0) i pathen
     var target_x = path_get_point_x(path_Move, 0);

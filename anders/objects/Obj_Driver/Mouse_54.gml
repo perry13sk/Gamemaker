@@ -1,1 +1,1 @@
-path_delete_point(path_Move,0)
+//path_delete_point(path_Move,0)
